@@ -26,7 +26,7 @@ python main.py -h
 
 # 训练集下载
 
-请从https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/下载需要训练的风格数据集解压至`datasets`文件夹
+请从 https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/ 下载需要训练的风格数据集解压至`datasets`文件夹
 
 
 
